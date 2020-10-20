@@ -1,4 +1,4 @@
-# Inventario
+# Inventory
 School project of an inventory in terminal made in Python 
 
 In this project we´ve created a great inventory with different options, we included a menu were you can decide what to do, this included the option to register
